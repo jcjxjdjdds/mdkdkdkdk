@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 session = requests.session()
 is_checking = False
 #——————————————————————#
-bot = telebot.TeleBot("6304701670:AAHx-V9nbykxDAtGrvi3cTLsXIdlXbvT30E")
+bot = telebot.TeleBot("5263113264:AAG10fBRoKE-w2rZbBLNoUhy8R48XxbP6oQ")
 print("BoT Started")
 #——————————————————————#
 def chk_format(value):
